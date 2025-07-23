@@ -1,4 +1,4 @@
-to test init workflow
+
 # Wall‑Go 🧱♟️
 
 ![cover](https://schaoss.github.io/wall-go/cover.png)
