@@ -1,3 +1,7 @@
+# Simply commit anything to main or other branches and trigger the deployment
+# Go to your repository’s Settings → Pages.
+# Under Build and deployment, select “GitHub Actions” as the deployment source.
+# After the workflow runs, change the branch to gh-pages branch for GitHub Pages to serve your site
 name: Deploy to GH Pages
 on:
   push:
