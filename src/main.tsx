@@ -1,3 +1,4 @@
+// Main entry point for the Wall-Go application
 import './i18n'
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
